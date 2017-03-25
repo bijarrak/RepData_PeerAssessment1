@@ -2,7 +2,7 @@
 title: "Activity Analysis"
 author: Rajib Kar
 date: March 25, 2017
-output: html_document
+output: md_document
 ---
 
 
